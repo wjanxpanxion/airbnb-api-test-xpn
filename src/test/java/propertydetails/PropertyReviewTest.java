@@ -85,6 +85,4 @@ public class PropertyReviewTest {
         Message message = popertyReviewWithInvalidUseCase.getMessage();
         System.out.println( message);
     }
-
-
 }
