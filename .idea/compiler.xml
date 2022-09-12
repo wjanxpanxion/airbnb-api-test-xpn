@@ -11,6 +11,7 @@
         <module name="Airbnb" />
         <module name="AirbnbXpn-main" />
         <module name="Airbnb-api-tests" />
+        <module name="airbnb-api-test-xpn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
