@@ -1,0 +1,7 @@
+
+
+
+
+Practice with Negative Scenarios:
+
+Status codes: 200, 400, 401, 404
