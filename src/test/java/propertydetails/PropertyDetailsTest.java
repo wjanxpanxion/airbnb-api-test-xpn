@@ -8,8 +8,6 @@ import org.testng.annotations.Test;
 
 public class PropertyDetailsTest {
 
-
-
     @Test
     public void shouldBeAbleToGetInvalidPropertyIDMsg(){
 

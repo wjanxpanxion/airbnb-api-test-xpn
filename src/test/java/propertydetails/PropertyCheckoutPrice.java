@@ -8,7 +8,6 @@ import org.testng.annotations.Test;
 
 public class PropertyCheckoutPrice {
 
-
     @Test
     public void shouldBeAbleToGetPropertyAvailabilityMessage(){
 
@@ -18,6 +17,4 @@ public class PropertyCheckoutPrice {
         Assert.assertTrue( checkoutMessageForPropertyNonAvailibility.getData().contains("someone else just requested a reservation") );
 
     }
-
-
 }
